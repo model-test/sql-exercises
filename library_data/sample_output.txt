@@ -1,0 +1,29 @@
+Ordered by Year (Descending):
+Data Horizons - 2023
+Minimal Lines - 2022
+Hidden Cities - 2021
+Numbers and Noise - 2020
+Quantum Drift - 2019
+The Silent Forest - 2018
+The Last Algorithm - 2017
+Binary Dawn - 2016
+Echoes of Steel - 2015
+Ancient Tides - 2014
+
+Total Number of Books per Genre:
+Fantasy - 4
+Science - 3
+Technology - 3
+
+Average Rating per Genre:
+Fantasy - 4.75
+Science - 4.37
+Technology - 4.10
+
+Genres With Average Rating Greater Than 4.4:
+Fantasy - 4.75
+
+Top 3 Longest Books:
+1. Echoes of Steel - 610 pages
+2. Ancient Tides - 530 pages
+3. Hidden Cities - 510 pages
