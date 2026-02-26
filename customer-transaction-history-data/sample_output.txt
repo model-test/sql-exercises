@@ -1,0 +1,101 @@
+Orders Sorted by Year (descending):
+Customer: Alice
+| Product: Laptop
+| Category: Electronics
+| Quantity: 1
+| Price: $1200.0
+| Order Year: 2023
+
+Customer: Bob
+| Product: Headphones
+| Category: Electronics
+| Quantity: 2
+| Price: $150.0
+| Order Year: 2023
+
+Customer: Clara
+| Product: Monitor
+| Category: Electronics
+| Quantity: 2
+| Price: $300.0
+| Order Year: 2023
+
+Customer: Eve
+| Product: Desk
+| Category: Furniture
+| Quantity: 1
+| Price: $550.0
+| Order Year: 2023
+
+Customer: Bob
+| Product: Pen Pack
+| Category: Stationery
+| Quantity: 3
+| Price: $5.0
+| Order Year: 2023
+
+Customer: Alice
+| Product: Lamp
+| Category: Furniture
+| Quantity: 2
+| Price: $45.0
+| Order Year: 2023
+
+Customer: Alice
+| Product: Desk Chair
+| Category: Furniture
+| Quantity: 1
+| Price: $320.0
+| Order Year: 2022
+
+Customer: David
+| Product: Notebook
+| Category: Stationery
+| Quantity: 5
+| Price: $8.0
+| Order Year: 2022
+
+Customer: Clara
+| Product: Keyboard
+| Category: Electronics
+| Quantity: 1
+| Price: $120.0
+| Order Year: 2022
+
+Customer: David
+| Product: Tablet
+| Category: Electronics
+| Quantity: 1
+| Price: $600.0
+| Order Year: 2022
+
+Total Revenue per Category:
+Electronics - $2820.0
+Furniture - $960.0
+Stationery - $55.0
+
+Top 2 Customers by Total Spending:
+1. Alice - $1610.0
+2. Clara - $720.0
+
+Categories Where Total Revenue is Greater Than $1000:
+Electronics - $2820.0
+
+Average Order Value per Year:
+2023 - $459.17
+2022 - $270.00
+
+Row Count:
+10
+
+Customer Count:
+5
+
+Max Price:
+$1200.0
+
+Min Price:
+$5.0
+
+Average Price:
+$329.8
