@@ -15,3 +15,16 @@ Collection of exercises using **SQL**
   - Average rating per genre
   - Genres with average rating greater than 4.4
   - Top 3 longest books (by pages)
+
+- **customer-transaction-history-data/**
+  - Practices summarizing data
+  - Orders sorted by year
+  - Total revenue per category
+  - Top 2 customers by total spending
+  - Categories where total revenue is greater than $1000
+  - Average order value per year
+  - Row count
+  - Customer count
+  - Max price
+  - Min price
+  - Average price
