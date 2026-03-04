@@ -28,3 +28,7 @@ Collection of exercises using **SQL**
   - Max price
   - Min price
   - Average price
+
+- **left_join_project/**
+  - Practices merging two tables with LEFT JOIN
+  - Summarizes data
