@@ -1,0 +1,84 @@
+All Customer Order History:
+Alice
+| City: Miami
+| Product: Laptop
+| Total: $1200.00
+
+Alice
+| City: Miami
+| Product: Mouse
+| Total: $25.00
+
+Bob
+| City: Orlando
+| Product: Desk
+| Total: $550.00
+
+Clara
+| City: Tampa
+| Product: Monitor
+| Total: $300.00
+
+Clara
+| City: Tampa
+| Product: Chair
+| Total: $200.00
+
+Clara
+| City: Tampa
+| Product: Keyboard
+| Total: $120.00
+
+David
+| City: Miami
+| Product: NO ORDER
+| Total: $0.00
+
+Eva
+| City: Orlando
+| Product: NO ORDER
+| Total: $0.00
+
+Customers With No Orders:
+David
+| City: Miami
+
+Eva
+| City: Orlando
+
+Number of Orders per Customer:
+Clara - 3 order(s)
+Alice - 2 order(s)
+Bob - 1 order(s)
+David - 0 order(s)
+Eva - 0 order(s)
+
+Total Amount Spent per Customer:
+Alice - $1225.00
+Clara - $620.00
+Bob - $550.00
+David - $0.00
+Eva - $0.00
+
+Most Recent Order Year per Customer:
+Alice - 2023
+Bob - 2022
+Clara - 2023
+David - NO ORDERS
+Eva - NO ORDERS
+
+Top 3 Customers by Total Spending:
+1. Alice - $1225.00
+2. Clara - $620.00
+3. Bob - $550.00
+
+Total Revenue per City:
+Miami - $1225.00
+Orlando - $550.00
+Tampa - $620.00
+
+Customers Who Signed Up Before 2021 but Never Placed an Order:
+David - 2018
+
+Most Popular Category:
+Electronics - 4 order(s)
