@@ -1,0 +1,120 @@
+Users Older Than 25:
+Name: Bob
+Age: 30
+City: New York
+
+Name: Diana
+Age: 40
+City: Chicago
+
+Name: Eve
+Age: 28
+City: Miami
+
+Name: Frank
+Age: 35
+City: Houston
+
+Name: Hannah
+Age: 31
+City: Miami
+
+Name: Ian
+Age: 27
+City: Chicago
+
+Name: Jack
+Age: 45
+City: Houston
+
+Name: Karen
+Age: 33
+City: Los Angeles
+
+Name: Maya
+Age: 29
+City: Chicago
+
+Name: Nina
+Age: 38
+City: New York
+
+Name: Oscar
+Age: 26
+City: Houston
+
+Users Older Than 25 and in Miami:
+Name: Eve
+Age: 28
+City: Miami
+
+Name: Hannah
+Age: 31
+City: Miami
+
+Users Older Than 20 Sorted by Age Desc:
+Name: Jack
+Age: 45
+City: Houston
+
+Name: Diana
+Age: 40
+City: Chicago
+
+Name: Nina
+Age: 38
+City: New York
+
+Name: Frank
+Age: 35
+City: Houston
+
+Name: Karen
+Age: 33
+City: Los Angeles
+
+Name: Hannah
+Age: 31
+City: Miami
+
+Name: Bob
+Age: 30
+City: New York
+
+Name: Maya
+Age: 29
+City: Chicago
+
+Name: Eve
+Age: 28
+City: Miami
+
+Name: Ian
+Age: 27
+City: Chicago
+
+Name: Oscar
+Age: 26
+City: Houston
+
+Name: Alice
+Age: 25
+City: Miami
+
+Name: Charlie
+Age: 22
+City: Los Angeles
+
+Name: Leo
+Age: 21
+City: Miami
+
+How Many Users are Older Than 25?:
+11
+
+How Many Users are in Each City?:
+Miami - 4
+New York - 3
+Houston - 3
+Chicago - 3
+Los Angeles - 2
